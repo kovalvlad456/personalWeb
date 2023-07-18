@@ -4,6 +4,7 @@ import { projectList } from "../helpers/ProjectList";
 import GitHubIcon from "@material-ui/icons/GitHub";
 import "../styles/ProjectDisplay.css";
 import Link from "@material-ui/core/Link";
+import WebsiteLink from "@material-ui/icons/Language";
 
 function ProjectDisplay() {
   const { id } = useParams();
@@ -17,6 +18,9 @@ function ProjectDisplay() {
       </p>
       <Link href={project.gLink} className="GitHub" target="_blank" >
         <GitHubIcon />
+      </Link>
+      <Link href={project.wLink} className="WebsiteLink" target="_blank" >
+        <WebsiteLink />
       </Link>
     </div>
   );
