@@ -15,6 +15,8 @@
     font-size: 35px;
     align-self: center;
     overflow: hidden;
+    display: flex;
+    padding-bottom: 15px;
   }
   .project img {
     max-width: 100%;
@@ -25,6 +27,10 @@
     border-radius: 10px;
     align-items: center;
     overflow: hidden;
+    display: flex;
+    padding-top: 25px;
+    
+    padding-right: 35px;
   }
   
   .project p {
