@@ -13,10 +13,11 @@
     margin: auto;
     color: #3e497a;
     font-size: 35px;
-    align-self: center;
+    align-items: center;
     overflow: hidden;
     display: flex;
     padding-bottom: 15px;
+    padding-top:10px
   }
   .project img {
     max-width: 100%;
@@ -28,9 +29,7 @@
     align-items: center;
     overflow: hidden;
     display: flex;
-    padding-top: 25px;
-    
-    padding-right: 35px;
+    padding-top: 20px;
   }
   
   .project p {
@@ -39,6 +38,7 @@
     font-size: 40px;
     color: #3e497a;
     overflow: hidden;
+    padding-left: 10px;
   }
   
   .project svg {
