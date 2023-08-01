@@ -5,8 +5,16 @@ import project4 from "../assets/project4.png";
 import project5 from "../assets/project5.jpg";
 import project6 from "../assets/project6.jpg";
 import project7 from "../assets/project7.jpg";
+import project8 from "../assets/project8.jpg";
 
 export const projectList = [
+    {
+        name: "Weather App",
+        image: project8,
+        skills: "React, React Hooks (useState and useContext), Context API, openweather API, HTML, CSS, JavaScript",
+        wLink: "https://vkoval-weatherapp.netlify.app/",
+        gLink: "https://github.com/kovalvlad456/weatherAPI.git"
+    },
     {
         name: "Expense Tracker",
         image: project7,

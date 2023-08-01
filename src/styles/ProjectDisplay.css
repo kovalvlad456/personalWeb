@@ -13,8 +13,9 @@
     font-size: 35px;
   }
   .project img {
-    width: 700px;
+    width: 600px;
     border-radius: 10px;
+    align-items: center;
   }
   
   .project p {
