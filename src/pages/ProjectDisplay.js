@@ -13,14 +13,19 @@ function ProjectDisplay() {
     <div className="project">
       <h1> {project.name}</h1>
       <img src={project.image} alt="nothing"/> 
-      <p>
-        <b>Skills:</b> {project.skills}
-      </p>
-      <Link href={project.gLink} className="GitHub" target="_blank" >
+      <div>
+        <p>
+          <b>Skills:</b> {project.skills}
+        </p>
+      </div>
+      
+      <Link href={project.gLink} className="GitHubProjects" target="_blank" >
         <GitHubIcon />
+        <h2>Github Link</h2>
       </Link>
-      <Link href={project.wLink} className="WebsiteLink" target="_blank" >
+      <Link href={project.wLink} className="WebsiteLinkProjects" target="_blank" >
         <WebsiteLink />
+        <h2>Web Link</h2>
       </Link>
     </div>
   );

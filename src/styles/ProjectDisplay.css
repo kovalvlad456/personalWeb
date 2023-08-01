@@ -24,12 +24,13 @@
     max-height: 100%;
     margin: auto;
     height: auto;
-    width: 600px;
+    width: auto;
     border-radius: 10px;
     align-items: center;
     overflow: hidden;
     display: flex;
     padding-top: 20px;
+    
   }
   
   .project p {
@@ -39,6 +40,8 @@
     color: #3e497a;
     overflow: hidden;
     padding-left: 10px;
+    padding-bottom: 15px;
+    padding-top: 15px;
   }
   
   .project svg {
@@ -46,3 +49,18 @@
     color: #3e497a;
     overflow: hidden;
   }
+
+  .GitHubProjects { 
+    align-items: center;
+    padding-right: 10px;
+    padding-top: 2px;
+    display: flex;
+    padding-bottom: 30px;
+  }
+  .WebsiteLinkProjects {
+    align-items: bottom;
+    display: flex;
+    padding-bottom:0px;
+    justify-content: bottom;
+  }
+  
