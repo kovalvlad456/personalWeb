@@ -67,7 +67,7 @@ function Experience() {
                     <h4 className="vertical-timeline-element-subtitle">
                         Etobicoke, ON
                     </h4>
-                    <p> Worked as a Data Analyst Intern,  had the oppurtunity to observe my supervisor maintain databases and use statistical techniques such as MySQL to collect and analyze any data from customers to employees. </p>
+                    <p>Duties: <br></br> - Cleansing of large unstructured data and enabling analytical capability in order to query the data and address various business needs. <br></br> - Created data visualizations such as charts and graphs to convey relevant data sets to over 30 non-technical employees and company consumers.<br></br>- Collaborated with cross-functional teams to identify opportunities for data-driven decision making.</p>
                 </VerticalTimelineElement>
 
                 <VerticalTimelineElement 
