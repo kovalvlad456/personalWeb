@@ -6,8 +6,16 @@ import project5 from "../assets/project5.jpg";
 import project6 from "../assets/project6.png";
 import project7 from "../assets/project7.jpg";
 import project8 from "../assets/project8.jpg";
+import project9 from "../assets/project9.png";
 
 export const projectList = [
+    {
+        name: "Inter-Process Communication and Parallel Summation in a Multi-Process Environment",
+        image: project9,
+        skills: "React, React Hooks (useState and useContext), Context API, openweather API, HTML, CSS, JavaScript",
+        wLink: "https://vkoval-weatherapp.netlify.app/",
+        gLink: "https://github.com/kovalvlad456/weatherAPI.git"
+    },
     {
         name: "Weather App",
         image: project8,

@@ -67,7 +67,7 @@ function Experience() {
                     <h4 className="vertical-timeline-element-subtitle">
                         Etobicoke, ON
                     </h4>
-                    <p>Duties: <br></br> - Cleansing of large unstructured data and enabling analytical capability in order to query the data and address various business needs. <br></br> - Created data visualizations such as charts and graphs to convey relevant data sets to over 30 non-technical employees and company consumers.<br></br>- Collaborated with cross-functional teams to identify opportunities for data-driven decision making.</p>
+                    <p>Duties: <br></br> - Demonstrated strong organizational skills by efficiently sorting and processing incoming and outgoing mail within specified timeframes. <br></br> - Effectively communicated with customers to understand their need, providing accurate information, and ensuring a positive customer experience.<br></br>- Collaborated with cross-functional teams to identify opportunities to enhance operational efficiency and streamline processes for optimal performances.</p>
                 </VerticalTimelineElement>
 
                 <VerticalTimelineElement 
@@ -76,7 +76,7 @@ function Experience() {
                     iconStyle={{ background: "#3e497a", color: "#fff" }}
                     icon={<SchoolIcon />}
                 >
-                    <h3 className="vertical-timeline-element-title"> 
+                    <h3 className="vertical-timeline-element-title">
                         Bachelors of Science - University of Western Ontario
                     </h3>
                     <h4 className="vertical-timeline-element-subtitle">
