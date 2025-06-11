@@ -10,7 +10,7 @@ import project9 from "../assets/project9.png";
 
 export const projectList = [
     {
-        name: "Inter-Process Communication and Parallel Summation in a Multi-Process Environment",
+        name: "Multi-Process Parallel Summation",
         image: project9,
         skills: "React, React Hooks (useState and useContext), Context API, openweather API, HTML, CSS, JavaScript",
         wLink: "https://vkoval-weatherapp.netlify.app/",
