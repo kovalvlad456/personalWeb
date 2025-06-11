@@ -56,21 +56,6 @@ function Experience() {
                 </VerticalTimelineElement>
 
                 <VerticalTimelineElement 
-                    className="vertical-timeline-element--work" 
-                    date="May 2021 - Aug 2021"
-                    iconStyle={{ background: "#e9d35b", color: "#fff" }}
-                    icon={<WorkIcon />}
-                >
-                    <h3 className="vertical-timeline-element-title"> 
-                        Summer Intern - Meest
-                    </h3>
-                    <h4 className="vertical-timeline-element-subtitle">
-                        Etobicoke, ON
-                    </h4>
-                    <p>Duties: <br></br> - Demonstrated strong organizational skills by efficiently sorting and processing incoming and outgoing mail within specified timeframes. <br></br> - Effectively communicated with customers to understand their need, providing accurate information, and ensuring a positive customer experience.<br></br>- Collaborated with cross-functional teams to identify opportunities to enhance operational efficiency and streamline processes for optimal performances.</p>
-                </VerticalTimelineElement>
-
-                <VerticalTimelineElement 
                     className="vertical-timeline-element--education" 
                     date="Sep 2021 - April 2025"
                     iconStyle={{ background: "#3e497a", color: "#fff" }}
