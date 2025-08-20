@@ -85,6 +85,48 @@ function Experience() {
                     <p> Helped office move furntinure, technology, and paperwork/file systems to desired locations. </p>
                 </VerticalTimelineElement>
 
+                <VerticalTimelineElement 
+                    className="vertical-timeline-element--work" 
+                    date="May 2023 - Aug 2023"
+                    iconStyle={{ background: "#e9d35b", color: "#fff" }}
+                    icon={<WorkIcon />}
+                >
+                    <h3 className="vertical-timeline-element-title"> 
+                        Software Developer Intern - VenueVision
+                    </h3>
+                    <h4 className="vertical-timeline-element-subtitle">
+                        Greater Toronto Area, Canada · Remote
+                    </h4>
+                    <p>
+                        - Participated in the full software development lifecycle, from design and coding to testing and deployment. <br />
+                        - Helped develop new features and functionalities for existing applications. <br />
+                        - Debugged and resolved software defects and issues as they arose.
+                    </p>
+                </VerticalTimelineElement>
+
+
+                <VerticalTimelineElement 
+                    className="vertical-timeline-element--work" 
+                    date="May 2023 - Present"
+                    iconStyle={{ background: "#e9d35b", color: "#fff" }}
+                    icon={<WorkIcon />}
+                >
+                    <h3 className="vertical-timeline-element-title"> 
+                        Software Developer - Octal4
+                    </h3>
+                    <h4 className="vertical-timeline-element-subtitle">
+                        Toronto, Ontario, Canada · On-site
+                    </h4>
+                    <p>
+                        - Built and maintained applications on the Appian platform using MySQL and XML. <br />
+                        - Integrated APIs for real-time data exchange and external service connectivity. <br />
+                        - Developed document automation and customized features to meet client needs. <br />
+                        - Participated in planning, testing, and issue resolution to ensure performance and reliability.
+                    </p>
+                </VerticalTimelineElement>
+
+                
+
                 
             </VerticalTimeline>
         </div>
