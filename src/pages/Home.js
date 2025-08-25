@@ -26,28 +26,50 @@ function Home() {
             <dic className="skills">
                 <h1> Skills </h1>
                 <ol className="list">
-                    <li className="item">
-                        <h2> Front-End </h2>
-                        <span> ReactJS, HTML, CSS, MaterialUI, Yarn, XML</span>
+                <li className="item">
+                    <h2> Front-End </h2>
+                    <span> ReactJS, HTML, CSS, MaterialUI, Yarn </span>
                     </li>
 
                     <li className="item">
-                        <h2> Back-End </h2>
-                        <span> NodeJS, Java, Python, C, MySQL, JavaScript</span>
+                    <h2> Back-End </h2>
+                    <span> NodeJS, Java, Python, C, MySQL, JavaScript </span>
                     </li>
 
                     <li className="item">
-                        <h2> Programming Languages </h2>
-                        <span> Java, Python, C, JavaScript, HTML, CSS, MySQL, Assembly, Linux </span>
+                    <h2> Programming Languages </h2>
+                    <span> Java, Python, C, JavaScript, HTML, CSS, MySQL, Assembly, Appian, Linux, Bash/Shell Scripting </span>
                     </li>
 
                     <li className="item">
-                        <h2> Personal Skills </h2>
-                        <span> 
-                            Customer Service, Organization, Excel, PowerPoint, Data Analysis, 
-                            Time Management, Public Relation, MS Access 
-                        </span>
+                    <h2> DevOps & CI/CD </h2>
+                    <span> Git, GitHub, Jenkins, Docker, Kubernetes, Apache Airflow, Configuration Management (Ansible/Terraform) </span>
                     </li>
+
+                    <li className="item">
+                    <h2> Data & Workflow Tools </h2>
+                    <span> Apache Spark, MySQL, MongoDB, Pandas, XML </span>
+                    </li>
+
+                    <li className="item">
+                    <h2> Cloud & Platforms </h2>
+                    <span> Azure, Linux, Agile/Scrum, Appian </span>
+                    </li>
+
+                    <li className="item">
+                    <h2> Automation & Testing </h2>
+                    <span> JUnit, Continuous Testing (CT), Automated Testing </span>
+                    </li>
+
+                    <li className="item">
+                    <h2> Personal Skills </h2>
+                    <span>
+                        Customer Service, Organization, Excel, PowerPoint, Data Analysis,
+                        Time Management, Public Relation, MS Access
+                    </span>
+                    </li>
+
+
 
                 </ol>
             </dic>
